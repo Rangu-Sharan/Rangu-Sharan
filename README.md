@@ -9,7 +9,7 @@
 
 I'm Sharan, a passionate software engineer with a keen interest in AI/ML and software development.
 
-## 🚀 Skills
+ ## 🚀 Skills
 - **Programming Languages**: Python, Java, JavaScript
 - **Tools & Technologies**: PyTorch
 - **Data Analysis**: Pandas, NumPy, Matplotlib
