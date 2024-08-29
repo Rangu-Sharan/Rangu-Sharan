@@ -1,3 +1,7 @@
+
+
+
+
 # Hi there! 👋
 I'm Sharan, a passionate software engineer with a keen interest in AI/ML and software development.
 
@@ -14,3 +18,6 @@ involved data collection, visualization to support decision-making and strategy 
 ## 📫 Let's Connect
 - [LinkedIn](RANGU SHARAN)
 - [Email](sharanrangu18@gmail.com)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
