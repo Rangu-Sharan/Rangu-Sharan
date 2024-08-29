@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋
+I'm Sharan, a passionate software engineer with a keen interest in AI/ML and software development.
 
-<!--
-**Rangu-Sharan/Rangu-Sharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
+- **Programming Languages**: Python, Java, JavaScript
+- **Tools & Technologies**: PyTorch
+- **Data Analysis**: Pandas, NumPy, Matplotlib
 
-Here are some ideas to get you started:
+## 🌟 Featured Projects
+- **[Project Name](link-to-project)**: A brief description of what the project is about and the technologies used.
+- **[Another Project](link-to-project)**: Another cool project you’ve worked on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- [LinkedIn](RANGU SHARAN)
+- [Email](sharanrangu18@gmail.com)
