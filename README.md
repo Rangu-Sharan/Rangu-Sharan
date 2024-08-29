@@ -11,6 +11,12 @@ I'm Sharan, a passionate software engineer with a keen interest in AI/ML and sof
 - **Programming Languages**: Python, Java, JavaScript
 - **Tools & Technologies**: PyTorch
 - **Data Analysis**: Pandas, NumPy, Matplotlib
+<style>
+  .animated-text:hover {
+    color: #f39c12;
+    transition: color 0.5s ease-in-out;
+  }
+</style>
 
 ## 🌟 Featured Projects
 - **[Text to word Convertor](https://github.com/Rangu-Sharan/Speech_to_Text_convertor/blob/main/speechtotextrecognisation.py)**:Designed and implemented a speech-to-text conversion system that accurately transcribes spoken language into text.
