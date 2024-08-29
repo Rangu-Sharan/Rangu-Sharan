@@ -1,4 +1,4 @@
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
 
 
 
@@ -16,10 +16,12 @@ I'm Sharan, a passionate software engineer with a keen interest in AI/ML and sof
 - **[Data Anaiysis and Data Mnipulation](https://github.com/Rangu-Sharan/Data-Analysis-and-Data-Manipulation/blob/main/Data%20Analysis%20and%20Manipulation.ipynb)**:Conducted a comprehensive data analysis project aimed at uncovering insights from Ipl Auction Data set. The project 
 involved data collection, visualization to support decision-making and strategy formulation.
 
+
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rangu-Sharan&show_icons=true&theme=radical)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rangu-Sharan&layout=compact&theme=radical)
+
+![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 
 ## 📫 Let's Connect
