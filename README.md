@@ -3,8 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&lines=Welcome+to+my+GitHub+Profile;I'm+a+Rangu+Sharan;I+love+AI/ML+and+coding;passionate+about+coding)
 
 
-# Hi there! !![Celebration GIF](https://media.giphy.com/media/l4HodBpDmoMA5p9bG/giphy.gif)
-
+# Hi there! !👋
 
 
 
