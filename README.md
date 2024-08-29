@@ -20,4 +20,4 @@ involved data collection, visualization to support decision-making and strategy 
 - [Email](sharanrangu18@gmail.com)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rangu-Sharan&show_icons=true&theme=radical)
