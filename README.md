@@ -1,18 +1,9 @@
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=blue&lines=Welcome+to+my+GitHub+Profile;I'm+a+Rangu+Sharan;I+love+AI/ML+and+coding;passionate+about+coding)
-# Welcome to My GitHub Profile! 🎉
-
-![Developer GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
-## 🚀 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
 
 
-
-# Hi there! 👋
+# Hi there! 😊
 I'm Sharan, a passionate software engineer with a keen interest in AI/ML and software development.
 
 ## 🚀 Skills
